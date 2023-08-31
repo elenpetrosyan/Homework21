@@ -1,0 +1,8 @@
+@mixin flex ($df, $jst, $ali, $fd, $gap) {
+    display: $df;
+    justify-content: $jst;
+    align-items: $ali;
+    flex-direction: $fd;
+    gap: $gap;
+    
+}
